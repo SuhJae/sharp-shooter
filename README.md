@@ -19,6 +19,7 @@ If you want to run the robot code on your own Vex V5 robot, you'll need to:
 1. Connect your Vex V5 robot to your computer via USB or wirelessly.
 1. Use your preferred C++ compiler to compile the main.cpp file.
 1. Transfer the compiled binary to the robot and run it.
+
 Note: This repository is intended for educational and informational purposes only. Use at your own risk.
 
 ### Contributing

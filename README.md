@@ -1,3 +1,6 @@
+### 📜 Archived Repository
+This repository has been archived, since 2022-2023 Spin up season is over.
+
 # Vex V5 Robot Code Repository
 This repository contains the source code for the Vex V5 Spin Up robot, written in C++ using the Vex V5 C++ API. The robot is used by our team for various competitions and events.
 
